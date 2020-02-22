@@ -14,7 +14,7 @@
         <posts-grid />
       </template>
       <template v-slot:sidebar>
-        Nothing here
+        Nothing here for Netlify
       </template>
     </main-section>
     <news-letter-form-modal />
